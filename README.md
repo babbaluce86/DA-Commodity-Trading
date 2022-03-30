@@ -1,8 +1,8 @@
 # DA-Power-Trading
-Some strategies for short term trading in the UK power market
+Some strategies for short term trading in some power market
 
 
-This is a project that aims to create some exploratory trading strategies based on power market fundamentals in UK.
+This is a project that aims to create some exploratory trading strategies based on power market fundamentals.
 
 
 Notebook ImbalanceUK.ipynb 
